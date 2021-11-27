@@ -1,4 +1,4 @@
-# My_System_Verilog_Projects
+# My System Verilog Projects
 My system verilog projects!
 
 
