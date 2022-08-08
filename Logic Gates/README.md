@@ -1,3 +1,6 @@
+Helpful cheat sheet to illustrate each Logic Gate's Truth Table
+------------------
+
 Inverter
 -------------
 | Input | Output
@@ -13,3 +16,12 @@ And
 | 0 | 1 | 0 |
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
+
+Nand
+---------------
+| A Input | B Input | Output |
+| --------------- | ---------------- | --------------- |
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
