@@ -1,5 +1,15 @@
-| Table MyTable | This is an example column 
+Inverter
+-------------
+| Input | Output
 | --------------- | ---------------- 
-| Coconut | Melon | 
-| Linus | Windows |
-| 0$ | 100$ | 
+| 0 | 1 | 
+| 1 | 0 |
+
+And
+---------------
+| A Input | B Input | Output |
+| --------------- | ---------------- | --------------- |
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
